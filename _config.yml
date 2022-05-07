@@ -34,7 +34,7 @@ round-avatar: true
 #title-img: /path/to/image
 
 #cover-img: ["/assets/img/img1.png", "/assets/img/img2.png"]
-cover-img: "/assets/img/img1.png"
+cover-img: "/assets/img/avatar-icon.png"
 
 # --- Footer social media links --- #
 
