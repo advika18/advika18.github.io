@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Home
 
 # Your name to show in the footer
 author: Some Person
@@ -34,7 +34,7 @@ round-avatar: true
 #title-img: /path/to/image
 
 #cover-img: ["/assets/img/img1.png", "/assets/img/img2.png"]
-cover-img: "/assets/img/img2.png"
+cover-img: "/assets/img/img1.png"
 
 # --- Footer social media links --- #
 
