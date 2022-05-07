@@ -33,11 +33,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-#cover-img: ["/assets/img/img1.png", "/assets/img/img2.png"]
 
-cover-img: "/assets/img/big-imgs/img1.jpg"
-big-img: "/assets/img/big-imgs/img1.jpg"
-bigimg: "/assets/img/big-imgs/img1.jpg"
 # --- Footer social media links --- #
 
 # Select the social network links that you want to show in the footer.
