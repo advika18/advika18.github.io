@@ -34,7 +34,8 @@ round-avatar: true
 #title-img: /path/to/image
 
 #cover-img: ["/assets/img/img1.png", "/assets/img/img2.png"]
-#cover-img: "/assets/img/big-imgs/img1.png"
+
+cover-img: "/assets/img/big-imgs/img1.jpg"
 
 # --- Footer social media links --- #
 
@@ -97,7 +98,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
