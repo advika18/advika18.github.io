@@ -3,12 +3,6 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
-remote_theme: daattali/beautiful-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-
 # --- Required options --- #
 
 # Name of website
@@ -40,7 +34,7 @@ round-avatar: true
 #title-img: /path/to/image
 
 #cover-img: ["/assets/img/img1.png", "/assets/img/img2.png"]
-cover-img: "/assets/img/big-imgs/img1.png"
+#cover-img: "/assets/img/big-imgs/img1.png"
 
 # --- Footer social media links --- #
 
