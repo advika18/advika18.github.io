@@ -26,6 +26,7 @@
 * https://www.wildlifeinsights.org/:  Live Camera trap data
 * https://merlin.allaboutbirds.org/: App to classify bird sounds
 * https://lila.science/datasets/snapshot-serengeti : Camera trap data
+* https://link.springer.com/article/10.1007/s10531-022-02420-x - List of papers for biodiversity conservation
 
 ### Websites and Blogs								
 * [Cornell Project for bird sound classification](https://birdnet.cornell.edu/)
