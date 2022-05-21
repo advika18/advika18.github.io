@@ -1,6 +1,7 @@
 # **Biodiversity Monitoring** 
 
 [Website](https://advika18.github.io/biodiversity-monitoring)
+[Google Doc for drafts](https://docs.google.com/document/d/1wllAIWvykxWAXd8Do_8tTl_uuy-tEECO3m4AX5Cj9xk/edit?usp=sharing)
 
 ## Authors
 
@@ -38,6 +39,18 @@
 ### Papers
 * https://www.nature.com/articles/s41467-022-27980-y
 * https://conservationmetrics.com/wp-content/uploads/Klein_2015_bloomberg_data4good-2015.pdf
+#### Holistic Monitoring
+* [Towards a multisensored station for automated monitoring](https://www.sciencedirect.com/science/article/pii/S1439179122000032)
+* [Integrating multi-sensor remote sensing and species distribution modeling to
+map the spread of emerging forest disease and tree mortality](https://www.fs.fed.us/psw/publications/efh/psw_2019_he001.pdf)
+
+# Data Sources
+* [Our World in Data - Animal Species](https://ourworldindata.org/biodiversity)
+
+
+# Tools Present
+* [Integrated Biodiversity Assessment Tool](https://www.ibat-alliance.org/)
+
 
 # Roadmap
 
