@@ -1,7 +1,7 @@
 # **Biodiversity Monitoring** 
 
-[Website](https://advika18.github.io/biodiversity-monitoring)
-[Google Doc for drafts](https://docs.google.com/document/d/1wllAIWvykxWAXd8Do_8tTl_uuy-tEECO3m4AX5Cj9xk/edit?usp=sharing)
+* [Website](https://advika18.github.io/biodiversity-monitoring)
+* [Google Doc for drafts](https://docs.google.com/document/d/1wllAIWvykxWAXd8Do_8tTl_uuy-tEECO3m4AX5Cj9xk/edit?usp=sharing)
 
 ## Authors
 
