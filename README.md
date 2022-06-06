@@ -49,7 +49,7 @@ map the spread of emerging forest disease and tree mortality](https://www.fs.fed
 * [Our World in Data - Animal Species](https://ourworldindata.org/biodiversity)
 * [Free and open access to bio-diversity data](https://www.gbif.org/) 
 
-### Competition
+# Competition
 * https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
 
 # Tools Present
