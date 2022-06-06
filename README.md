@@ -40,9 +40,6 @@
 * https://www.nature.com/articles/s41467-022-27980-y
 * https://conservationmetrics.com/wp-content/uploads/Klein_2015_bloomberg_data4good-2015.pdf
 
-### Competition
-* https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
-
 #### Holistic Monitoring
 * [Towards a multisensored station for automated monitoring](https://www.sciencedirect.com/science/article/pii/S1439179122000032)
 * [Integrating multi-sensor remote sensing and species distribution modeling to
@@ -52,6 +49,8 @@ map the spread of emerging forest disease and tree mortality](https://www.fs.fed
 * [Our World in Data - Animal Species](https://ourworldindata.org/biodiversity)
 * [Free and open access to bio-diversity data](https://www.gbif.org/) 
 
+### Competition
+* https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
 
 # Tools Present
 * [Integrated Biodiversity Assessment Tool](https://www.ibat-alliance.org/)
