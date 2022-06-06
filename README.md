@@ -39,6 +39,10 @@
 ### Papers
 * https://www.nature.com/articles/s41467-022-27980-y
 * https://conservationmetrics.com/wp-content/uploads/Klein_2015_bloomberg_data4good-2015.pdf
+
+### Competition
+* https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
+
 #### Holistic Monitoring
 * [Towards a multisensored station for automated monitoring](https://www.sciencedirect.com/science/article/pii/S1439179122000032)
 * [Integrating multi-sensor remote sensing and species distribution modeling to
